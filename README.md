@@ -1,5 +1,5 @@
 # hello-world
-The beginning of something great.
+This is the beginning of something great.
 
 Learning is something I'm very passionate about.<br>
 Curiosity arises from learning and plays a key role in the creativity of individuals.<br>
